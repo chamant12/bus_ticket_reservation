@@ -1,0 +1,22 @@
+.err{
+    width: 100%;
+    padding: 8px;
+    float: left;
+}
+.already{
+    padding: 10px;
+    padding-left: 0px;
+    font-size: 12px !important;
+}
+
+span.relative.z-0.inline-flex.shadow-sm.rounded-md {
+    display: none !important;
+}
+
+.d-flex.justify-content-center {
+    padding: 20px;
+}
+
+p.text-sm.text-gray-700.leading-5 {
+    margin-top: 20px;
+}
